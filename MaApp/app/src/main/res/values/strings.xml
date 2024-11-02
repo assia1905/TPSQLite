@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">MaApp</string>
+
+    <!-- Labels et placeholders pour les champs de saisie -->
+    <string name="label_nom">Nom :</string>
+    <string name="hint_nom">Entrez le nom</string>
+    <string name="label_prenom">Prénom :</string>
+    <string name="hint_prenom">Entrez le prénom</string>
+    <string name="label_id">ID de l\'étudiant :</string>
+    <string name="hint_id">Entrez l\'ID</string>
+
+    <!-- Boutons -->
+    <string name="button_ajouter">Ajouter</string>
+    <string name="button_chercher">Chercher</string>
+    <string name="button_supprimer">Supprimer</string>
+
+    <!-- Messages de résultat et notifications -->
+    <string name="result_etudiant">Résultat :</string>
+    <string name="error_etudiant_not_found">Étudiant non trouvé</string>
+    <string name="success_etudiant_ajoute">Étudiant ajouté avec succès</string>
+    <string name="success_etudiant_supprime">Étudiant supprimé avec succès</string>
+</resources>
