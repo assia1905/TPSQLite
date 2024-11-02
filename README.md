@@ -30,6 +30,7 @@
 
 # Démonstration Vidéo
 - Une démonstration vidéo est disponible ici pour montrer l'ajout, la recherche et la suppression d'étudiants.
+    https://github.com/user-attachments/assets/e2f9256a-1b40-4e00-a15d-f93a7e9ae3d4
 
 # Auteur
 - Développé par AsSia BOUJNAH.
